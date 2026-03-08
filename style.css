@@ -358,7 +358,6 @@ button {
   background-color: #FFBABA;
   border-radius: 20px;
   margin-top: 20px;
-  height: 274px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -367,7 +366,7 @@ button {
 
 .quiz-content h1 {
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
   margin: 10 0;
 }
@@ -427,8 +426,6 @@ button {
   justify-content:center;
   font-size:20px;
   border-radius:4px;
-  width: 25px;
-  height: 25px;
 }
 
 .wall{
@@ -454,3 +451,4 @@ button {
   font-weight:bold;
 
 }
+
