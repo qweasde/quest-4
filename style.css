@@ -412,7 +412,7 @@ button {
 
 #maze{
   width:200px;
-  height:200px;
+  height:135px;
   display:grid;
   grid-template-columns:repeat(5,1fr);
   grid-template-rows:repeat(5,1fr);
@@ -451,5 +451,6 @@ button {
   font-weight:bold;
 
 }
+
 
 
